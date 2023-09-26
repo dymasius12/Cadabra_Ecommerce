@@ -4,7 +4,9 @@ function App() {
   return (
     <div className="App">
       <Header />
-      Cadabra My App
+      <main>
+        <h1>Welcome to Cadabra!</h1>
+      </main>
       <Footer />
     </div>
   );
