@@ -1,9 +1,11 @@
-import logo from './logo.svg';
-
+import Header from './components/Header.js'
+import Footer from './components/Footer'
 function App() {
   return (
     <div className="App">
+      <Header />
       Cadabra My App
+      <Footer />
     </div>
   );
 }
