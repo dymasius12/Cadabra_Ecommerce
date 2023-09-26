@@ -10,7 +10,7 @@ function Product({ product }) {
       <Card.Body>
         <a href={`/product/${product._id}`}>
             <Card.Title as="div">
-                <Strong>{product.name}</Strong>
+                <strong>{product.name}</strong>
             </Card.Title>
         </a>
 
