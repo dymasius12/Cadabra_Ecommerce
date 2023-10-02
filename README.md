@@ -11,7 +11,7 @@ This is the UI/UX of the ecommerce
 ![Frontend1](./resources/images/frontend1.png)
 ![Frontend2](./resources/images/frontend2.png)
 ![Frontend3](./resources/images/frontend3.png)
-![Frontend4](./resources/images/frontend4.png)
+![Frontend4](./resources/images/frontend6.png)
 ![Frontend5](./resources/images/frontend5.png)
 
 ### Getting Started with Create React App
