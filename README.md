@@ -3,8 +3,13 @@ This project is about making an ecommerce web that has all the ecommerce feature
 1. Login
 2. Registration
 3. Cart
-4. Payment
+4. Shipping
 5. Product display
+
+Things to implement: 
+1. Backend for user data storage
+2. Payment linked with backend
+3. User display linked with backend
 
 ### Ecommerce FrontEnd
 This is the UI/UX of the ecommerce
