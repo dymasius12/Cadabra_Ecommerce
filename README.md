@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Python MH6802 Fintech Ecosystem & Innovation
+This project is about making an ecommerce web that has all the ecommerce features
+1. Login
+2. Registration
+3. Cart
+4. Payment
+5. Product display
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
