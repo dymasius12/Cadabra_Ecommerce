@@ -6,6 +6,13 @@ This project is about making an ecommerce web that has all the ecommerce feature
 4. Payment
 5. Product display
 
+### Ecommerce FrontEnd
+This is the UI/UX of the ecommerce
+![Frontend1](./resources/images/frontend1.png)
+![Frontend2](./resources/images/frontend2.png)
+![Frontend3](./resources/images/frontend3.png)
+![Frontend4](./resources/images/frontend4.png)
+
 ### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
