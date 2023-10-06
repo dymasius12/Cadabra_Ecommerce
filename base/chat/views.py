@@ -1,5 +1,5 @@
 from rest_framework import generics
-from .models import Chat, Message
+from ..models import Chat, Message
 from .serializers import ChatSerializer, MessageSerializer
 
 
