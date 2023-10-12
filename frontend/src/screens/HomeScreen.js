@@ -2,6 +2,7 @@ import React from "react";
 import { Row, Col } from "react-bootstrap";
 import products from "../products";
 import Product from '../components/Product'
+import ChatComponent from "../components/ChatComponent";
 
 function HomeScreen() {
   return (
@@ -14,6 +15,10 @@ function HomeScreen() {
           </Col>
         ))}
       </Row>
+
+      <footer>
+          <ChatComponent></ChatComponent>
+      </footer>
     </div>
   );
 }
