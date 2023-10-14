@@ -11,13 +11,24 @@ Things to implement:
 2. Payment linked with backend
 3. User display linked with backend
 
-### Ecommerce FrontEnd
+### Ecommerce UI/UX
 This is the UI/UX of the ecommerce
-![Frontend1](./resources/images/frontend1.png)
-![Frontend2](./resources/images/frontend2.png)
-![Frontend3](./resources/images/frontend3.png)
-![Frontend4](./resources/images/frontend6.png)
-![Frontend5](./resources/images/frontend5.png)
+![Frontend1](./resources/images/image1.png)
+![Frontend1](./resources/images/image2.png)
+![Frontend1](./resources/images/image3.png)
+![Frontend1](./resources/images/image4.png)
+![Frontend1](./resources/images/image5.png)
+![Frontend1](./resources/images/image6.png)
+![Frontend1](./resources/images/image7.png)
+![Frontend1](./resources/images/image8.png)
+![Frontend1](./resources/images/image9.png)
+![Frontend1](./resources/images/image10.png)
+![Frontend1](./resources/images/image11.png)
+![Frontend1](./resources/images/image12.png)
+![Frontend1](./resources/images/image13.png)
+![Frontend1](./resources/images/image14.png)
+![Frontend1](./resources/images/image15.png)
+
 
 ### Getting Started with Create React App
 
