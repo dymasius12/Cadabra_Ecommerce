@@ -30,19 +30,27 @@ This project was built for class MH6802 FinTech Ecosystem at Nanyang Technologic
 
 ### Cadabra E-commerce UI/UX
 This is the UI/UX of the ecommerce
+#### 1. Home Screen:
 ![Frontend1](./resources/images/image1.png)
+#### 2. Product Details:
 ![Frontend1](./resources/images/image2.png)
+#### 3. Product Review:
 ![Frontend1](./resources/images/image3.png)
+#### 4. Shopping Cart:
 ![Frontend1](./resources/images/image4.png)
+#### 5. Checkout System:
 ![Frontend1](./resources/images/image5.png)
-![Frontend1](./resources/images/image6.png)
 ![Frontend1](./resources/images/image7.png)
 ![Frontend1](./resources/images/image8.png)
 ![Frontend1](./resources/images/image9.png)
+#### 6. Chatting Feature:
 ![Frontend1](./resources/images/image10.png)
+#### 7. Database Management System AdministrationPage:
 ![Frontend1](./resources/images/image11.png)
 ![Frontend1](./resources/images/image12.png)
 ![Frontend1](./resources/images/image13.png)
 ![Frontend1](./resources/images/image14.png)
+#### 8. Reason for the name:
 ![Frontend1](./resources/images/image15.png)
+#### 9. Full Stack:
 ![Frontend1](./resources/images/image16.png)
